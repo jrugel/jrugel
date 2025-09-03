@@ -4,6 +4,7 @@
 - 📧 jrugel@gmail.com
 - 📱 [+595 981 404 804](tel:+595981404804) / [WhatsApp](https://wa.me/595981404804)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/javierrugel)
+- 🔗 [GitHub](https://github.com/jrugel)
 
 ---
 
