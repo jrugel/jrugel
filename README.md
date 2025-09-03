@@ -77,6 +77,13 @@
 
 ---
 
+## Web Portfolio
+- Rochester Laboratorios Color S.A. http://www.rochester.com.py
+- Dr. Santiago Giralt http://www.santiagogiralt.com
+- Vasco Paraguay S.A. http://www.vasco.com.py
+
+---
+
 ## Languages / Idiomas
 - Spanish/Español (Native/Nativo).  
 - English/Inglés (Professional/Profesional).  
