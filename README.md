@@ -86,5 +86,5 @@
 
 ## Languages / Idiomas
 - Spanish/Español (Native/Nativo).  
-- English/Inglés (Professional/Profesional).  
-- Portuguese/Portugués (Limited/Básico).  
+- English/Inglés (B1+).  
+- Portuguese/Portugués (A2).  
