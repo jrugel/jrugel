@@ -60,12 +60,9 @@
 ---
 
 ## Education / Educación
-- 🇺🇸 Bootcamp in Artificial Intelligence, Cymetria Group, 2024.  
-- 🇺🇸 Computer Systems Analysis (unfinished degree), Catholic University of Asunción, 2004–2006.  
-- 🇺🇸 High School Diploma, with emphasis in Accounting, Apostólico San José, 1998.  
-- 🇪🇸 Bootcamp en Inteligencia Artificial, Cymetria Group, 2024.  
-- 🇪🇸 Análisis de Sistemas Informáticos (carrera inconclusa), Universidad Católica, 2004–2006.  
-- 🇪🇸 Bachiller en Ciencias Contables, Colegio Apostólico San José, 1998.  
+- 🇺🇸 Bootcamp in Artificial Intelligence / 🇪🇸 Bootcamp en Inteligencia Artificial, [Cymetria Group](https://cymetria.com/), 2024.
+- 🇺🇸 Computer Systems Analysis (unfinished degree) / 🇪🇸 Análisis de Sistemas Informáticos (carrera inconclusa), [Catholic University of Asunción](https://universidadcatolica.edu.py/), 2004–2006.
+- 🇺🇸 High School Diploma, with emphasis in Accounting / 🇪🇸 Bachiller en Ciencias Contables, [Apostólico San José](https://www.apostolicosanjose.edu.py/), 1998.
 
 ---
 
