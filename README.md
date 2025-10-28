@@ -39,11 +39,13 @@
 
 - [**Artes Gráficas Zamphiropolos S.A. (AGZ)**](https://www.zamphiropolos.com/) – SysAdmin / Software Engineer (Jun 2022 – Jul 2023)  
   - 🇺🇸 Implemented ERP modules for **Administration, Accounting, and Collections** ([Papyrvs ERP](https://clc.com.ar/)), streamlining business operations.  
-  - 🇺🇸 Led implementation of **Electronic Invoicing System** (Python + SQL Server + Java + REST) aligned with national regulations.  
+  - 🇺🇸 Led implementation of **Electronic Invoicing System** (Python + SQL Server + Java + REST) aligned with national regulations.
+  - 🇺🇸 Developed a middleware application using Vaadin (Spring Boot) to manage job queues, retries, and notifications.
   - 🇺🇸 Built Power BI and SSRS dashboards providing actionable insights for management.  
   - 🇪🇸 Implementé módulos de ERP para **Administración, Contabilidad y Cobros** ([Papyrvs ERP](https://clc.com.ar/)), optimizando las operaciones del negocio.  
-  - 🇪🇸 Lideré la implementación de un **sistema de Facturación Electrónica** (Python + SQL Server + Java + REST) cumpliendo normativas nacionales.  
-  - 🇪🇸 Creé tableros en Power BI y SSRS que brindaron insights accionables a la gerencia.  
+  - 🇪🇸 Lideré la implementación de un **sistema de Facturación Electrónica** (Python + SQL Server + Java + REST) cumpliendo normativas nacionales.
+  - 🇪🇸 Creé una aplicación de middleware utilizando Vaadin (Spring Boot) para administrar la cola de trabajo, los reintentos y las notificaciones.
+  - 🇪🇸 Creé tableros en Power BI y SSRS que brindaron insights accionables a la gerencia.
 
 - **Freelance Developer** – Full-Stack & Frontend Projects (Dec 2020 – Jul 2023)  
   - 🇺🇸 Delivered 10+ full-stack projects using **React.js, Next.js, AWS Amplify, DynamoDB**, tailored to SMEs.  
