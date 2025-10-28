@@ -3,7 +3,7 @@ name: Export CV to PDF
 on:
   push:
     branches:
-      - main
+      - main-off
     paths-ignore:
       - "CV.pdf"
 
