@@ -25,7 +25,13 @@
 
 ## Recent Professional Experience / Experiencia Profesional Reciente
 
-- [**FortyAU LLC**](https://fortyau.com/) – Software Engineer, Maintenance Team (Jun 2024 – Present/Actualidad) | Remote / Remoto  
+- [**Quicksign S.A.**](https://masfazzil.com/) – Full-Stack Developer (Feb 2026 – Present/Actualidad)
+  - 🇺🇸 Developing a cross-platform mobile application (iOS & Android) for MasFazzil, a fintech wallet enabling transfers, international remittances, payments, and collections.  
+  - 🇺🇸 Automating deployment pipelines and CI/CD processes (DevOps) to streamline releases and ensure reliability.  
+  - 🇪🇸 Desarrollo de una aplicación móvil multiplataforma (iOS y Android) para MasFazzil, una wallet fintech que permite transferencias, remesas internacionales, cobros y pagos.  
+  - 🇪🇸 Automatización de pipelines de despliegue y procesos de CI/CD (DevOps) para agilizar las entregas y garantizar la confiabilidad.
+
+- [**FortyAU LLC**](https://fortyau.com/) – Software Engineer, Maintenance Team (Jun 2024 – Jan 2026) | Remote / Remoto
   - 🇺🇸 Member of the Maintenance Team, responsible for ensuring stability, performance, and bug fixes in enterprise applications for US clients.  
   - 🇺🇸 Collaborated in Agile teams, delivering features on time and reducing bug backlog.  
   - 🇪🇸 Miembro del Equipo de Mantenimiento, responsable de garantizar la estabilidad, el rendimiento y la corrección de errores en aplicaciones empresariales para clientes de EE.UU.  
