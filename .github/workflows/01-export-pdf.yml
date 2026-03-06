@@ -22,7 +22,7 @@ jobs:
         run: sudo apt-get install -y pandoc texlive-xetex
 
       - name: Convert Markdown to PDF
-        run: pandoc README.md -o CV.pdf --pdf-engine=xelatex
+        run: pandoc README.md -o CV-Javier-Rugel.pdf --pdf-engine=xelatex
 
       - name: Commit and push PDF
         run: |
