@@ -12,8 +12,8 @@
 
 ## Professional Summary / Perfil Profesional
 
-* 🇺🇸 Detail-oriented Software Engineer with 15+ years of experience spanning **frontend development, backend systems, DevOps, and cloud technologies**. Currently serving as **Development Lead** and **Product Manager** in the fintech space. Proven track record delivering scalable solutions. Experienced in **React.js, Next.js, AWS (Amplify, Lambda, DynamoDB), Python, SQL Server, Java, and DevOps pipelines**. Passionate about building scalable applications that enhance end-user satisfaction.
-* 🇪🇸 Ingeniero de Software con más de 15 años de experiencia en **desarrollo frontend, backend, DevOps e infraestructura cloud**. Actualmente desempeñándose como **Líder de Desarrollo** y **Product Manager** en el sector fintech. Amplio recorrido en sectores como **consultoría y telecomunicaciones**, con capacidad comprobada para entregar soluciones escalables. Dominio de **React.js, Next.js, AWS (Amplify, Lambda, DynamoDB), Python, SQL Server, Java y pipelines de DevOps**. Orientado a la **satisfacción del usuario final** y la calidad del software.
+* 🇺🇸 Software Engineer with over 25 years of experience in **frontend development, backend development, DevOps, cloud infrastructure, and telecommunications**. Currently, I work as a **Development Lead** and **Product Manager** in the fintech sector. I have a proven track record of delivering scalable solutions. I am proficient in **React.js, Next.js, AWS (Amplify, Lambda, DynamoDB), Python, SQL Server, Java, and DevOps pipelines**. I am focused on **end-user satisfaction** and software quality.
+* 🇪🇸 Ingeniero de Software con más de 25 años de experiencia laboral, en áreas de **desarrollo frontend, backend, DevOps, infraestructura cloud y telecomunicaciones**. Actualmente me desempeño como **Líder de Desarrollo** y **Product Manager** en el sector fintech. Con capacidad para entregar soluciones escalables. Dominio de **React.js, Next.js, AWS (Amplify, Lambda, DynamoDB), Python, SQL Server, Java y pipelines de DevOps**. Orientado a la **satisfacción del usuario final** y la calidad del software.
 
 ---
 
