@@ -1,6 +1,6 @@
 # Javier Rugel
 
-**Software Engineer | Full-Stack Developer | Cloud Solutions | Team Leader | Product Manager**
+**Software Engineer | Full-Stack Developer | Cloud Solutions | Tech Leader | Product Manager**
 
 * 📍 Asunción, Paraguay (Remote)
 * 📧 [jrugel@gmail.com](mailto:jrugel@gmail.com)
