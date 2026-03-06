@@ -3,16 +3,20 @@ name: Export CV to PDF
 on:
   push:
     branches:
-      - main-off
+      - main
     paths-ignore:
       - "CV.pdf"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Anti-loop guard 2: skip if the push was made by the bot itself
+    if: github.actor != 'github-actions[bot]'
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install pandoc
         run: sudo apt-get install -y pandoc texlive-xetex
@@ -20,16 +24,11 @@ jobs:
       - name: Convert Markdown to PDF
         run: pandoc README.md -o CV.pdf --pdf-engine=xelatex
 
-      # - name: Commit PDF
-      #   run: |
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "github-actions[bot]@users.noreply.github.com"
-      #     git add CV.pdf
-      #     git commit -m "Auto-update CV.pdf"
-      #     git push
-
-      - name: Upload CV PDF
-        uses: actions/upload-artifact@v3
-        with:
-          name: CV
-          path: CV.pdf
+      - name: Commit and push PDF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CV.pdf
+          # Only commit if CV.pdf actually changed; [skip ci] is anti-loop guard 3
+          git diff --cached --quiet || git commit -m "chore: auto-update CV.pdf [skip ci]"
+          git push
