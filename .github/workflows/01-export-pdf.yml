@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Anti-loop guard 2: skip if the push was made by the bot itself
+    # Anti-loop guard: skip if the push was made by the bot itself
     if: github.actor != 'github-actions[bot]'
     permissions:
       contents: write
@@ -18,17 +18,31 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc texlive-xetex
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      # Noto Color Emoji renders flag emojis correctly in Puppeteer/Chromium
+      - name: Install emoji font
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-color-emoji
 
       - name: Convert Markdown to PDF
-        run: pandoc README.md -o CV-Javier-Rugel.pdf --pdf-engine=xelatex
+        run: md-to-pdf README.md --config-file .md-to-pdf.config.js
+
+      - name: Rename output
+        run: mv README.pdf CV-Javier-Rugel.pdf
 
       - name: Commit and push PDF
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add CV-Javier-Rugel.pdf
-          # Only commit if CV-Javier-Rugel.pdf actually changed; [skip ci] is anti-loop guard 3
+          # Only commit if PDF actually changed; [skip ci] is anti-loop guard
           git diff --cached --quiet || git commit -m "chore: auto-update CV-Javier-Rugel.pdf [skip ci]"
           git push
