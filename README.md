@@ -34,12 +34,7 @@
   + 🇺🇸 Leading the development team, overseeing software projects and ensuring quality delivery across multiple technology platforms.
   + 🇪🇸 Liderando el equipo de desarrollo, supervisando proyectos de software y asegurando la entrega de calidad en múltiples plataformas tecnológicas.
 
-* [**Quicksign S.A.**](https://masfazzil.com.py) – Product Manager (Mar 2026 – Present/Actualidad) | Part-time / Medio tiempo
-
-  + 🇺🇸 Managing and overseeing the development of MasFazzil's technology platforms, a fintech wallet enabling transfers, international remittances, payments, and collections.
-  + 🇪🇸 Gestionando y controlando el desarrollo de las plataformas tecnológicas de MasFazzil, una wallet fintech que permite transferencias, remesas internacionales, cobros y pagos.
-
-* [**Quicksign S.A.**](https://masfazzil.com.py) – Full-Stack Developer (Feb 2026)
+* [**Quicksign S.A.**](https://masfazzil.com.py) – Full-Stack Developer (Feb 2026 – Mar 2026)
 
   + 🇺🇸 Developing a cross-platform mobile application (iOS & Android) for MasFazzil, a fintech wallet enabling transfers, international remittances, payments, and collections.
   + 🇺🇸 Automating deployment pipelines and CI/CD processes (DevOps) to streamline releases and ensure reliability.
