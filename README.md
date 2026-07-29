@@ -19,37 +19,30 @@
 
 ## Core Skills / Competencias Clave
 
-* 🇺🇸 **Software Engineering & Architecture**: Cloud-native and serverless architectures, system design, scalable applications, REST and GraphQL APIs, software quality, security, and maintainability. 
-
-  🇪🇸 **Ingeniería y Arquitectura de Software**: Arquitecturas cloud-native y serverless, diseño de sistemas, aplicaciones escalables, APIs REST y GraphQL, calidad, seguridad y mantenibilidad del software.
-
-* 🇺🇸 **AI-Assisted Software Development**: Generative AI and AI coding assistants applied throughout the software development lifecycle, including requirements analysis, architecture, implementation, testing, debugging, code review, documentation, and process automation.
-
-  🇪🇸 **Desarrollo de Software Asistido por IA**: Aplicación de inteligencia artificial generativa y asistentes de programación durante todo el ciclo de desarrollo de software, incluyendo análisis de requerimientos, arquitectura, implementación, pruebas, depuración, revisión de código, documentación y automatización de procesos.
-
-* 🇺🇸 **Frontend Development**: React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS.
-
-  🇪🇸 **Desarrollo Frontend**: React.js, Next.js, JavaScript, TypeScript y Tailwind CSS.
-
-* 🇺🇸 **Backend Development**: Java, Python, PHP, Laravel, CodeIgniter, REST APIs, GraphQL, and AWS Lambda.
-
-  🇪🇸 **Desarrollo Backend**: Java, Python, PHP, Laravel, CodeIgniter, APIs REST, GraphQL y AWS Lambda.
-
-* 🇺🇸 **Cloud & DevOps**: AWS Amplify, AWS Lambda, DynamoDB, Docker, CI/CD pipelines, Linux, and Azure DevOps.
-
-  🇪🇸 **Cloud y DevOps**: AWS Amplify, AWS Lambda, DynamoDB, Docker, pipelines de CI/CD, Linux y Azure DevOps.
-
-* 🇺🇸 **Data & Reporting**: PostgreSQL, SQL Server, Power BI, SQL Server Reporting Services (SSRS), and Pentaho.
-
-  🇪🇸 **Datos y Reportes**: PostgreSQL, SQL Server, Power BI, SQL Server Reporting Services (SSRS) y Pentaho.
-
-* 🇺🇸 **Technical Leadership & Product Management**: Development team leadership, technical decision-making, product management, requirements analysis, solution planning, and stakeholder communication.
-
-  🇪🇸 **Liderazgo Técnico y Gestión de Productos**: Liderazgo de equipos de desarrollo, toma de decisiones técnicas, gestión de productos, análisis de requerimientos, planificación de soluciones y comunicación con stakeholders.
-
-* 🇺🇸 **Infrastructure & Security**: Cloud infrastructure, networking, telecommunications, application security, observability, and operational reliability.
-
-  🇪🇸 **Infraestructura y Seguridad**: Infraestructura cloud, redes, telecomunicaciones, seguridad de aplicaciones, observabilidad y confiabilidad operativa.
+* **Software Engineering & Architecture / Ingeniería y Arquitectura de Software**:
+  * 🇺🇸 Cloud-native and serverless architectures, system design, scalable applications, REST and GraphQL APIs, software quality, security, and maintainability. 
+  * 🇪🇸 Arquitecturas cloud-native y serverless, diseño de sistemas, aplicaciones escalables, APIs REST y GraphQL, calidad, seguridad y mantenibilidad del software.
+* **AI-Assisted Software Development / Desarrollo de Software Asistido por IA**:
+  * 🇺🇸 Generative AI and AI coding assistants applied throughout the software development lifecycle, including requirements analysis, architecture, implementation, testing, debugging, code review, documentation, and process automation.
+  * 🇪🇸 Aplicación de inteligencia artificial generativa y asistentes de programación durante todo el ciclo de desarrollo de software, incluyendo análisis de requerimientos, arquitectura, implementación, pruebas, depuración, revisión de código, documentación y automatización de procesos.
+* **Frontend Development / Desarrollo Frontend**:
+  * 🇺🇸 React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS.
+  * 🇪🇸 React.js, Next.js, JavaScript, TypeScript y Tailwind CSS.
+* **Backend Development / Desarrollo Backend**:
+  * 🇺🇸 Java, Python, PHP, Laravel, CodeIgniter, REST APIs, GraphQL, and AWS Lambda.
+  * 🇪🇸 Java, Python, PHP, Laravel, CodeIgniter, APIs REST, GraphQL y AWS Lambda.
+* **Cloud & DevOps / Cloud y DevOps**:
+  * 🇺🇸 AWS Amplify, AWS Lambda, DynamoDB, Docker, CI/CD pipelines, Linux, and Azure DevOps.
+  * 🇪🇸 AWS Amplify, AWS Lambda, DynamoDB, Docker, pipelines de CI/CD, Linux y Azure DevOps.
+* **Data & Reporting / Datos y Reportes**:
+  * 🇺🇸 PostgreSQL, SQL Server, Power BI, SQL Server Reporting Services (SSRS), and Pentaho.
+  * 🇪🇸 PostgreSQL, SQL Server, Power BI, SQL Server Reporting Services (SSRS) y Pentaho.
+* **Technical Leadership & Product Management / Liderazgo Técnico y Gestión de Productos**:
+  * 🇺🇸 Development team leadership, technical decision-making, product management, requirements analysis, solution planning, and stakeholder communication.
+  * 🇪🇸 Liderazgo de equipos de desarrollo, toma de decisiones técnicas, gestión de productos, análisis de requerimientos, planificación de soluciones y comunicación con stakeholders.
+* **Infrastructure & Security / Infraestructura y Seguridad**:
+  * 🇺🇸 Cloud infrastructure, networking, telecommunications, application security, observability, and operational reliability.
+  * 🇪🇸 Infraestructura cloud, redes, telecomunicaciones, seguridad de aplicaciones, observabilidad y confiabilidad operativa.
 
 ---
 
