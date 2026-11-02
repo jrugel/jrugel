@@ -48,10 +48,10 @@
 
 ## Recent Professional Experience / Experiencia Profesional Reciente
 
-* [**Softec SRL**](https://softec.com.py/) – Development Lead / Líder de Desarrollo (Mar 2026 – Present/Actualidad)
+* [**Softec SRL**](https://softec.com.py/) – Development Lead & Product Owner / Líder de Desarrollo y Product Owner (Mar 2026 – Present/Actualidad)
 
-  + 🇺🇸 Leading the development team, overseeing software projects and ensuring quality delivery across multiple technology platforms.
-  + 🇪🇸 Liderando el equipo de desarrollo, supervisando proyectos de software y asegurando la entrega de calidad en múltiples plataformas tecnológicas.
+  + 🇺🇸 Leading the development team and serving as Product Owner, defining product priorities, managing the product roadmap, overseeing software projects, and ensuring quality delivery across multiple technology platforms.
+  + 🇪🇸 Liderando el equipo de desarrollo y desempeñándome como Product Owner, definiendo prioridades y la hoja de ruta de los productos, supervisando proyectos de software y asegurando entregas de calidad en múltiples plataformas tecnológicas.
 
 * [**Quicksign S.A.**](https://masfazzil.com.py) – Full-Stack Developer (Feb 2026 – Mar 2026)
 
